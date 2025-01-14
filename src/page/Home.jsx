@@ -1,5 +1,6 @@
 import React from "react";
 import profile from "../assets/profile.jpeg";
+import Skills from "../component/Skills";
 
 function Home() {
   return (
@@ -14,6 +15,7 @@ function Home() {
       <h1 className="my-1 text-xl md:text-2xl">Manoj Roy</h1>
       {/*Address */}
       <h2 className="text-lg ">Studend | Full Stack Devloper</h2>
+      <Skills />
     </div>
   );
 }
