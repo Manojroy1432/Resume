@@ -12,7 +12,7 @@ function Navber() {
   };
 
   return (
-    <div className="flex w-full items-center justify-between max-w-6xl">
+    <div className="flex w-full items-center justify-between max-w-6xl p-3 bg-transparent fixed top-0">
       <div></div>
       <div className="">
         {theme ? (
