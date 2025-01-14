@@ -15,7 +15,7 @@ function Skills() {
             }`}
           >
             <li className="text-sm my-1 cursor-pointer">React</li>
-            <li className="text-sm my-1 cursor-pointer">React</li>
+            <li className="text-sm my-1 cursor-pointer">Bootstrap</li>
             <li className="text-sm my-1 cursor-pointer">React</li>
           </ol>
         </div>
